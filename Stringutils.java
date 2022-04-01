@@ -1,1 +1,3 @@
 this file contains the string related code...
+  i am trying to visible in master branch
+  present i am editing in dev branch
