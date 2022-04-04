@@ -1,3 +1,6 @@
 
 this file is updating in dev branch
 this file contains python Script...
+i am updateing code
+to check fetch and pull command
+to see in working area
